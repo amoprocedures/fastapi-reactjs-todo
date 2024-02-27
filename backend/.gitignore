@@ -1,0 +1,8 @@
+__pycache__
+venv
+.env
+.venv
+.vscode
+.idea
+migrations
+*.ini
